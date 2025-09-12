@@ -286,7 +286,7 @@ If you use Masquerade in your research, please cite:
 ```bibtex
 @software{masquerade_spatial,
   title = {Masquerade: Spatial Image Analysis and Mask Generation},
-  author = {Your Name},
+  author = {Eduardo Esteva},
   url = {https://github.com/e-esteva/masquerade},
   version = {0.1.0},
   year = {2025},
