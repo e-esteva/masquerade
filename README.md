@@ -15,7 +15,7 @@ Masquerade is a Python package designed for spatial image analysis and mask gene
 - **Flexible coordinate handling**: Automatic coordinate adjustment and boundary condition management
 - **Cluster-based analysis**: Process spatial data organized by clusters with customizable parameters
 - **Memory efficient**: Optimized for handling large microscopy datasets
-- **Command-line interface**: Both modern and legacy CLI options for easy integration
+- **Command-line interface**: CLI option for easy deployment in HPC pipelines
 - **OME-TIFF support**: Export results in OME-compatible BigTIFF format
 
 ## 📦 Installation
@@ -71,7 +71,7 @@ Masquerade.write_ome_bigTiff(
 
 ### Command Line Interface
 ```bash
-# Modern CLI with named arguments
+# CLI with named arguments
 masquerade input.tiff coordinates.csv output.tiff \
   --radius 15 \
   --compress \
@@ -79,9 +79,7 @@ masquerade input.tiff coordinates.csv output.tiff \
   --filled \
   --verbose
 
-# Legacy CLI (for backward compatibility)
-masquerade-legacy input.tiff coords.csv output.tiff markers.csv \
-  True False 10 True 100 False 4.0
+
 ```
 
 ## 📊 Input Data Format
