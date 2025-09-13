@@ -3,7 +3,7 @@
 [![PyPI version](https://badge.fury.io/py/masquerade-spatial.svg)](https://badge.fury.io/py/masquerade-spatial)
 [![Python Support](https://img.shields.io/pypi/pyversions/masquerade-spatial.svg)](https://pypi.org/project/masquerade-spatial/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Tests](https://github.com/yourusername/masquerade-spatial/actions/workflows/tests.yml/badge.svg)](https://github.com/yourusername/masquerade-spatial/actions)
+[![Tests](https://github.com/e-esteva/masquerade/actions/workflows/tests.yml/badge.svg)](https://github.com/e-esteva/masquerade/actions)
 
 Masquerade is a Python package designed for spatial image analysis and mask generation from microscopy data. It specializes in processing multi-channel TIFF files and generating spatial masks based on clustering data, making it particularly useful for spatial biology and microscopy applications.
 
