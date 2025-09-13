@@ -28,7 +28,7 @@ pip install masquerade-spatial
 ### From source
 ```bash
 git clone https://github.com/e-esteva/masquerade.git
-cd masquerade-spatial
+cd masquerade
 pip install -e ".[dev]"
 ```
 
