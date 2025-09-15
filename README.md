@@ -295,8 +295,6 @@ If you use Masquerade in your research, please cite:
 ```
 
 ## 🔗 Links
-
-- **Documentation**: https://masquerade.readthedocs.io/
 - **PyPI Package**: [https://pypi.org/project/masquerade/](https://pypi.org/project/spatial-dynamics/0.1.0/)
 - **Issue Tracker**: https://github.com/e-esteva/masquerade/issues
 
