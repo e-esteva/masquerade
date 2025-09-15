@@ -1,6 +1,6 @@
 # Masquerade: Spatial Image Analysis and Mask Generation
 
-[![PyPI version](https://badge.fury.io/py/masquerade-spatial.svg)](https://badge.fury.io/py/masquerade-spatial)
+[![PyPI version](https://badge.fury.io/py/masquerade-spatial.svg)](https://badge.fury.io/py/masquerade-spatial/0.1.2/)
 [![Python Support](https://img.shields.io/pypi/pyversions/masquerade-spatial.svg)](https://pypi.org/project/masquerade-spatial/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
