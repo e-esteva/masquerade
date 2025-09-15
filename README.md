@@ -295,7 +295,7 @@ If you use Masquerade in your research, please cite:
 ```
 
 ## 🔗 Links
-- **PyPI Package**: [https://pypi.org/project/masquerade/]([(https://pypi.org/project/masquerade-spatial/)])
+- **PyPI Package**: [https://pypi.org/project/masquerade/](https://pypi.org/project/masquerade-spatial/)
 - **Issue Tracker**: https://github.com/e-esteva/masquerade/issues
 
 ## 📈 Changelog
