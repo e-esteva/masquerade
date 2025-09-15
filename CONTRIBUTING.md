@@ -23,12 +23,12 @@ By participating in this project, you agree to abide by our Code of Conduct. Ple
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally:
    ```bash
-   git clone https://github.com/e-esteva/spatial-dynamics.git
-   cd spatial-dynamics
+   git clone https://github.com/e-esteva/masquerade.git
+   cd masquerade
    ```
 3. **Add the original repository** as upstream:
    ```bash
-   git remote add upstream https://github.com/e-esteva/spatial-dynamics.git
+   git remote add upstream https://github.com/e-esteva/masquerade.git
    ```
 
 ## Development Setup
