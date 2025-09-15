@@ -1,6 +1,6 @@
 # Contributing to Masquerade
 
-Thank you for your interest in contributing to Spatial Dynamics! We welcome contributions from the community and are excited to work with you.
+Thank you for your interest in contributing to Masquerade! We welcome contributions from the community and are excited to work with you.
 
 ## Table of Contents
 
