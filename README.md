@@ -298,17 +298,7 @@ If you use Masquerade in your research, please cite:
 - **PyPI Package**: [https://pypi.org/project/masquerade/](https://pypi.org/project/masquerade-spatial/0.1.2/)
 - **Issue Tracker**: https://github.com/e-esteva/masquerade/issues
 
-## 📈 Changelog
 
-### v0.1.0 (2025-12-13)
-- 🎉 Initial release
-- ✨ Core mask generation functionality
-- ✨ Multi-channel TIFF processing
-- ✨ Spatial coordinate handling
-- ✨ Compression and filtering options
-- ✨ Command-line interface
-- ✨ OME-BigTIFF export support
-- 📚 Comprehensive documentation and tests
 
 ---
 
